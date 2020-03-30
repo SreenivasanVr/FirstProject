@@ -7,6 +7,8 @@ public class FirstClass {
 		
 		System.out.println("First Git Hub Project Setup");
 		
+		System.out.println("Second Committ");
+		
 	}
 
 }
